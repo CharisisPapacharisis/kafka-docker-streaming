@@ -1,0 +1,51 @@
+{
+	"meta": {
+		"requested": 2,
+		"returned": 2
+	},
+	"data": [
+		{
+			"ticker": "AAPL",
+			"name": "Apple Inc",
+			"exchange_short": null,
+			"exchange_long": null,
+			"mic_code": "IEXG",
+			"currency": "USD",
+			"price": 172.7,
+			"day_high": 176.61,
+			"day_low": 172.51,
+			"day_open": 175.42,
+			"52_week_high": 186.51,
+			"52_week_low": 124.17,
+			"market_cap": null,
+			"previous_close_price": 176.62,
+			"previous_close_price_time": "2024-04-12T15:59:59.000000",
+			"day_change": -2.27,
+			"volume": 2004619,
+			"is_extended_hours_price": false,
+			"last_trade_time": "2024-04-15T16:00:00.000000"
+		},
+		{
+			"ticker": "TSLA",
+			"name": "Tesla Inc",
+			"exchange_short": null,
+			"exchange_long": null,
+			"mic_code": "IEXG",
+			"currency": "USD",
+			"price": 161.45,
+			"day_high": 170.59,
+			"day_low": 161.38,
+			"day_open": 170.24,
+			"52_week_high": 314.67,
+			"52_week_low": 101.81,
+			"market_cap": null,
+			"previous_close_price": 171.11,
+			"previous_close_price_time": "2024-04-12T16:00:00.000000",
+			"day_change": -5.98,
+			"volume": 830854,
+			"is_extended_hours_price": false,
+			"last_trade_time": "2024-04-15T15:59:59.000000"
+		}
+	],
+	"timestamp_utc": "2024-04-17T12:00:51Z"
+}
